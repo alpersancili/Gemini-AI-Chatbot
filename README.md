@@ -52,7 +52,7 @@ FİLE STRUCTURE
 
 ├── README.md           # Project documentation
 
-└── ...                 # Other files
+├── ...                 # Other files
 
 DEPLOYMENT
 
