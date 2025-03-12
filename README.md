@@ -16,6 +16,7 @@ INSTALLATION
 1. Clone the Repository
 
 git clone https://github.com/alpersancili/Gemini-AI-Chatbot.git
+
 cd Gemini-AI-Chatbot
 
 2. Install Dependencies
