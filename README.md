@@ -45,9 +45,13 @@ This will launch the Gradio interface, allowing users to chat with the Gemini AI
 FİLE STRUCTURE
 
 ├── app.py              # Main application file
+
 ├── api_read.py         # Contains API key (or use .env file)
+
 ├── requirements.txt    # Required Python dependencies
+
 ├── README.md           # Project documentation
+
 └── ...                 # Other files
 
 DEPLOYMENT
